@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Players>
+  <Player>
+    <username>ravy</username>
+    <imageIndex>3</imageIndex>
+    <playedGames>35</playedGames>
+    <wonGames>8</wonGames>
+  </Player>
+  <Player>
+    <username>sadfgas</username>
+    <imageIndex>4</imageIndex>
+    <playedGames>1</playedGames>
+    <wonGames>0</wonGames>
+  </Player>
+  <Player>
+    <username>dfsgdf</username>
+    <imageIndex>6</imageIndex>
+    <playedGames>0</playedGames>
+    <wonGames>0</wonGames>
+  </Player>
+</Players>
